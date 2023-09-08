@@ -1,0 +1,21 @@
+20AACCL4310P1ZR,Active,Jharkhand
+24AACCL4310P1ZJ,Active,Gujarat
+06AACCL4310P1ZH,Active,Haryana
+21AACCL4310P1ZP,Active,Odisha
+24AACCL4310P2ZI,Active,Gujarat
+36AACCL4310P1ZE,Active,Telangana
+08AACCL4310P1ZD,Active,Rajasthan
+07AACCL4310P1ZF,Active,Delhi
+33AACCL4310P2ZJ,Active,Tamil Nadu
+37AACCL4310P1ZC,Cancelled,undefined
+32AACCL4310P1ZM,Active,Kerala
+22AACCL4310P1ZN,Active,Chhattisgarh
+27AACCL4310P8Z6,Active,Maharashtra
+10AACCL4310P1ZS,Active,Bihar
+27AACCL4310P1ZD,Active,Maharashtra
+29AACCL4310P2Z8,Active,Karnataka
+33AACCL4310P1ZK,Active,Tamil Nadu
+09AACCL4310P1ZB,Active,Uttar Pradesh
+29AACCL4310P3Z7,Active,Karnataka
+29AACCL4310P1Z9,Active,Karnataka
+01AACCL4310P1ZR,Active,Jammu and Kashmir
