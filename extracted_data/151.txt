@@ -1,0 +1,94 @@
+******************************page1*************************************
+TAX INVOICE
+
+Logistic Integrators (I) Pvt Ltd
+
+i 2 B-305/306/307/308, Sagartech Plaza,Sakinaka Andheri (E).
+no boundaries... MSME (MEDIUM) UDYAM REG NO. UDYAM-MH-18-0024920
+Tel: +91 22 42235555, Fax:- +91 22 4223 5550
+Email:- corporate@logisticintegrators.com
+Website:-www.logisticintegrators.com.
+Mumbai - 400072,MAHA
+
+State: [27] MAHARASHTRA GSTIN: 27AABCL6625N124
+CIN No : U638090MH2009PTC195813 PAN No : AABCL6625N
+
+Recipient : Invoice No. : MU/AI/1442/23-24
+LARSEN AND TOUBRO LIMITED Invoice Date : 10-Aug-2023
+
+L&T ENERGY-HYDROCARBON DIVISION
+MFF-HAZIRA WORKS, EPC BLOCK, Due Date : 10-Aug-2023
+SURAT HAZIRA RD,PO BOX BATHA,DIST-SURAT Place of Supply : [24] Gujarat
+
+SURAT - 394510, : . - tile _92_
+
+GSTIN : 24AAACLO140PDZD State : [24] Gujarat Shipment Type : Air Import
+MAWEB No. : 023-74806196 Date : 06-Jul-2023 Consignee Ref. : PO: 7800018024
+
+HAWB No. - 1007 Date : 07-Jul-2023 IncoTerms > EXW
+
+BE No. : Date : Shipper : OILFIELDS SUPPLY CENTERLTD,C/O
+Cargo Type : Loose Volume : 1.632 CBM Consignee : LARSEN AND TOUBRO LIMITED
+
+Packages - 3 PKG Gross Wt : 1807.000 KGS Place of Receipt : Dubai
+
+Chargeable Wt : 1807.000 KGS Net Wt. : 0.000 KGS Loading Port = Dubai
+
+Flight No. - FX0008 Date : 07-Jul-2023 Discharge Port : Mumbai
+
+Airline : Federal Express Place of Delivery :
+
+IGM Number - 2294163 Date : 07-Jul-2023 Destination Port : Mumbai (INBOM)
+
+Amount Non GST Taxable Total
+ipti SAC/ i Value
+Description Cur Quantit tax [Exempt Value
+Selossrnton | fat | uy (Cur) Se le (INR) (INR) (INR)
+
+1 |AIR IMPORT FREIGHT 996531 | USD) 1696.000| 1807.000 KGS 1,696.00] 83.4000] E | 1,41,446.40 1,41,446.40
+996763 | USD 620.00| 83.4000] T 51,708.00] 18.00] 9,307.44 61,015.44
+
+2 |EX WORKS CHARGES
+T: Taxable P:Pure Agent E:Exemption R:Reverse Charge N:Non Taxable Sub Total 2,02,461.84
+
+Payment Details : Total Amount Before Tax 1,93,154.40
+Bank Name : YES BANK LIMITED Add : GST 9,307.44
+Branch : ANDHERI WEST - MUMBAI Total Invoice Value 2,02,462.00
+A/C No :001061900007024 Less : Advance Received
+
+IFSC Code :YESB0000010 Round-Off
+
+Swift Code : YESBINBBXXX Net Payable 202,462.00
+
+IRN : 28ff5fdee03bbf522cb175245534b7e48bc2751 ee01 4e17ffa229e6fd6661 £55 Tax Payable on Reverse Charges 0.00
+
+Net Payable In Words (INR) Two Lakh Two Thousand Four Hundred Sixty Two Only.
+Remarks : SAP PO# 7900008626
+
+Terms & Conditions : For Logistic Integrators (I) Pvt Ltd
+* In case of any discrepancy in the invoice, please bring the same to our attention within 7 days of receipt of invoice;else the
+
+same would be treated as correct.
+
+* Delay in payment beyond the agreed credit period will attract interest @ 18% p.a.
+
+* Government Taxes applied as per the prevailing rates.
+
+* All disputes are subject to Mumbai Jurisdiction
+
+* WEF 13th June'23, we are granted Concessional Rate of TDS U/s 194 (C ) on our Bills @ 0.90% for applicable Custo ;
+
+please check your TRACES for Intimation "BS LOGISTIC IN
+
+@RATORS (1)
+
+* This is Computer Generated Invoice with Digital Signature, So Stamp & Signature is not required. PRIVATE LIMITE ba 1
+2023.08.10 10:35
+
+t
+a
+
+E&O.E Authorised Signatory
+Original for Recipient Page: 1/1
+
+

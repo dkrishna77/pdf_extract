@@ -1,0 +1,444 @@
+******************************page1*************************************
+MASTER AWB No. HAWB No.
+
+932 LHR 72142711 41635
+
+Consignor/Shipper (Name, Address, A/C No.)
+DELTA MOBREY LIMITED HOUSE AIR WAYBILL «air consignment note)
+RIVERSIDE BUSINESS PARK
+DOGFLUD WAY issued by
+FARNHAM SURREY GU97SS EUROPEAN FREIGHT LIMITED
+UK GUY 7SS OVERSEAS UNITED KINGDOM THE VISTA CENTRE
+5TH FLOOR, BLOCK: A
+Consignee (Name, Address, A/C No.) 50 SALISBURY RD, HOUNSLOW
+LARSEN & TOUBRO LIMITED TW4 6JQ
+L&T ENERGY — HYDROCARBON’ MFF, EPC BLOCK 02031373043
+
+HAZIRA MANUFACTURING COMPLEX
+HAZIRA, SURAT, GUJARAT 394 510
+
+Copies 1,2 and 3 of this Air Waybill Are originals and have the same validity
+
+Agent's Name and City Accounting Information
+AE087769
+
+eaTHBOW LIMITED NOTIFY: LARSEN & TOUBRO LIMITED, L&T ENERGY —
+
+0203137304302087561150 HYDROCARBON 14TH FLOOR, AMN TOWER
+JOGESHWARI-VIKHROLI LINK ROAD, POWAI CAMPUS,
+GATE NO
+
+. 3, MUMBAI SUBURBAN, MAHARASHTRA 400072
+
+Place of Departure and requested Routing
+
+LHR - HEATHROW LONDON AIRPORT
+
+to By first Carrier ’\_ Routing and Destination _ to by to by Currency __WT | | Declared Value for Customs
+PPD | COLL} PPD) COLL
+BOM VIRGIN ATLANTIC AIRWAYS GBP X X
+Place of Destination Flight/Date Flight/Date Amount of Insurance INSURANCE - li shiper requests insurance in accordance with
+issuer's conditions, indicate amount to be insured in figures in box
+MUMBAI AIRPORT,INDIA VS0354/13 marked Amount of insurance
+Handling Information (including Marks or Numbers on packages and method of packing)
+INVOICE NO.: DNO131671
+No. of Kg Rate Class Nature and Quantity of Goods
+; Gross Chargeable _ , ; :
+rneees Weight Ib Commodity Weight rate Charge Total (incl. Dimentions or Volume)
+Item No.
+1 161.0 K 161.0 AS AGREED PRESSURE DIFFERENCE SWITCH
+
+KIND ATTN: SHAILESH DIVATE « IEC : 0388024011 » GST: 24AAACL0140PDZD » PAN NOFREIGHT COLLECT
+: AAACLO140P KNOWN CARGO
+
+INVOICE NO.DN0131671 / DATE - 09/05/2023
+VOL: 0.684 [M3]
+
+DIMS:
+
+1 @ 120 X 100 X57 CM
+
+1 161.0 AS AGREED
+
+Prepaid ~~ Weight Charge Collect Other Charges
+AS AGREED
+
+it is agreed that the goods herein are accepted subject to issuer's conditions of contact. If the carriege involves
+
+an ultimate destination or stop in a country other thatn the country of departure, the Warsaw Convertion may be
+applicable and the Convertion governs and in mostcases limits the liability of carriers in respect of loss of, damage
+or delay to cargo. Agreed stopping places are those place(other than the place of departure or destination)
+
+AS AGREED detailed under ‘Routing herein and/or those places shown in the timetables of any carriers performing carriage
+hereunder as scheduled stopping places fro the the route
+
+Shipper certifies that the particulars on the face hereof are correct
+
+EUROPEAN FREIGHT LIMITED
+
+Signature of Shipper or his AQent.....2. se. .f lec eee crise che eneccecceenesubsesiecaeaeatensovunataceenequyieteseeaaeeeeeeeseaeeeseesccaeeeesesesceaeeeeessceeeeeeseeed
+
+Total prepaid Total collect
+AS AGREED
+Currency Conversion Rates cc Charges in Dest. Currency 11/05/2023 HEATHROW ALITA
+
+
+******************************page2*************************************
+LARSEN & TOUBRO LIMITED
+Consignee: L&T ENERGY-HYDROCARBON
+
+MFF, HAZIRA MANUFACTURING COMPLEX
+
+EPC BLOCK,HAZIRA
+
+SURAT , GUJARAT , 394510, INDIA
+
+Date: 09/05/2023
+
+Shipping Invoice No: DN0131671
+
+Area Code: E26B Your Order No: OGSP/78000-17708/PSs
+Account No: LAO?TO Consignment No: DNO1317671
+
+3320 Rev O
+
+Delta Order No: 156
+
+Item Oty Product/Part No. Unit Price Total Price
+
+Order No 158320 Line 1
+
+H3064DCO0H6032 Pressure Difference Switch 930.00 2790.00
+Order No 158320 Line 2
+
+H3064DBTH6Q32 Pressure Difference Switch 980.00 2940.00
+
+Order No 158320 Line i)
+
+RS21 4FXXH303 20AKR Pressure Switch 975.00 2925.00
+
+2
+
+Order No 158320 Line 4
+
+RS214FXXH30320AKR Pressure Switch 975.00 2925.00
+Order No 158320 Line s
+V5R3A1S 5 VALVE MANIFOLD-REMOTE MOUNT 274.00 1644.00
+
+CONE PHU Ges osu «
+
+Page 1
+
+Your Trusted Partner in Process Instrumentation
+
+Delta Mobrey Limited  Fiverside Business Park, Dogflud Way, Farnham, GU9 7SS
+T +44 (0) 1252729140 F+44(0) 1252729168 E sales@delta-mobrey.com Www
+
+v.delta-mobrey.com — Registered No. 5369683
+
+******************************page3*************************************
+Shipping Invoice No: DN0131671
+
+Area Code: E26B Your Order No: OGSP/76000-17708/PSs
+
+Account No: LAO70 Delta Order No: 158320 Rev 0
+Item Qty Product/Part No. Unit Price Total Price
+
+Order No 158320 Line 6
+
+R5214FBTH6Q320ABA Pressure Switch 970.00 2910.00
+
+Order No 158320 Line 7
+
+bpocs/07/SW BESPOKE TECHNICAL DOCUMENTATION 0.00 0.00
+
+Order No 1583270 Line 8
+
+102073 PLUG TYPE A STOPPING EExd 1/2INNPT 28.00 420.00
+
+Order No 158320 Line )
+
+37003474 PRESSURE PLUG 1/4NPT - MANIFOLDS 5.00 60.00
+
+Complete Order
+
+Incoterms : EX WORKS - CAMBERLEY FACTORY U.K.
+
+Tariff No No. Of Gr.Wt Nt. Wt Dims. (Cms)
+
+Boxes Kg Kg
+
+SEE BELOW 1 PALLET 161 123 120x100x57
+TARIFF CODES & ORIGIN
+
+ITEMS 1,2,3,4,6 = BULGARIAN ORIGIN - HTS CODE: 9032 2000
+ITEM 5 = U.K. ORIGIN - HTS CODE: 8481 6059
+
+ITEM 8 = U.K. ORIGIN - HTS CODF: 7326 9098
+
+ITEM 9 = U.K. ORIGIN - HTS CODE: 8481 9000
+
+NOTIFY PARTY: -
+
+LARSEN & TOUBRO LIMITED., L&T ENERGY - HYDROCARBON
+14TH FLOOR, AMN TOWER, JOGESHWARI-VIKHROLI LINE ROAD,
+
+POWAI CAMPUS,GATE NO.3, MUMBAI SURBURBAN , MAHARASHTRA
+
+400072. INDIA
+
+KIND ATTN: SHAILESH DIVATE
+
+-ITEC: 0388024011
+
+Continued......
+
+Page 2
+
+s Instrumentation
+
+Your Trusted Partner in Proces
+
+Delta Mobrey Limited Riverside Business Park, Dogflud Way, Farnham, GU9 7SS
+
+T +44 (0) 12 52729140 F +44 (0) 1252729168 E sales@delta-mobrey.com W www.delta-mobrey.com Registered No. 5369683
+
+
+******************************page4*************************************
+Shipping Invoice No: DN0131671
+
+Area Code: E26B
+
+Item Qty Product/Part No.
+“BST Se TAARCLO 14 0PEZ6
+-PAN NO. AAACT.0140P
+-BRANCH CODE. : 199
+
+FINAL DELIVERY ADDRESS: -
+
+LARSEN & TOUBRO LIMITED., L&T ENERGY-HYDROCARGON,
+MFF.HAZIRA MANUFACTURING COMPLEX, EPC BLOCK, HAZIRA,
+SURAT, GUJARAT, 394510, INDIA
+BREAKDOWN OF ITEMWISE NET WEIGHT:
+ITEM 1 = KGS EACH - TOTAL 16.5 KGS
+ITEM KGS EACH - TOTAL 16.5 KGS
+ITEM KGS EACH - TOTAL 23.1 KGS
+ITEM KGS EACH - TOTAL 23.1 KGS
+ITEM KGS EACH - TOTAL 15 KGs
+ITEM KGS EACH = TOTAL 23.1 KGS
+ITEM KGS EACH = TOTAL 0.6 KGS
+ITEM KGS EACH - TOTAL 1.5 Kas
+ITEM KGS EACH - TOTAL 3.6 KGS
+
+Ooo~47N~ASMin
+W =| Od]8H~a~am ut
+
+1 oS) oo one lo po
+Il
+
+ta Mobrey Ltd
+
+or Cus or Cus tons purposes only
+wee : THIS Is ney ACO COMMERCIAL INVOICE ***
+Ref. Consignment Note No.DN0131671
+V.A.T. No GB 216 1353 00
+
+Page 3
+
+ss Instrumentation
+
+Your Trusted Partner in Proce
+
+Delta Mobrey Limited Fiverside Business Park, Dogflud Way, Farnham, GU9 7SS
+
+Your Order No:
+
+Delta Order No:
+
+OGSP/78000-17708/PS
+
+158320 Rev 0
+
+Unit Price
+
+Nett Value in GBP
+
+T +44 (0) 12 52729140 F +44 (0) 1252729168 E sales@delta-mobrey.com W www.delta-mobrey.com Registered No. 5369683
+
+Total Price
+
+16613.99
+
+******************************page5*************************************
+ONidd OLS ¥ AdALl OMe
+NOILLYLINSWAD00 IWOINHDSL
+HSLIMS A8NnSsSadd
+IOJINVAY SATA S
+HOLIMS SYnsssidd
+HOLIMS 3unssadld
+
+HLMS SONSuaAMIG aUNSSaad} = Z|
+HLIMS SONSUSISIG NNSSadd} =k] OE
+
+way] eH8q) oN abeyoed
+
+ee |
+
+Ayuenny uoHndiwosSag
+
+JEMS}JEW JO UOI}dLISaq
+
+ivAIG HSA TWHS -NILY ON
+VIGNE cZ000¢ VA_LHSVAVHVA NVANEYAS IVOWNA
+
+£ ON JLV2 SNdWivo WAAOd
+CVOY MANET PIOYHHIATE VMSA OOP
+“HSMOL NAW YOO1d HLFL
+NOGYVYOOYOAH-ADYSANA LP
+CSL OYSNOL Y NASYV')
+
+~ALYVd ASILON
+
+Sd/s0Z2b-0008AdSD0 -ON daGHO
+
+a
+VIONI a916z2 2Szbl0) bee XBL
+
+OLSsree LYEVEND “LVYNS OFL6el 2ScL\0) prt IAL
+VeuIZVH HOO1E Odd WN-SSZ 6ND ABUNS
+
+Xo 1diWOD ONIPALOVAANVIN VarZVH 4d a
+NOGYVOOUGAH-ADHINS LPT ye SSSUISN Splsiaaly
+GALI OY¥ENOL ? NASYV] pay] AaIqoW Ela
+
+““ZENOISNOOD SERRE TS
+
+AaJQqoul-2}3|3ap
+
+LZ9-E+0N0 - LSI] ONIMOVd
+
+
+******************************page6*************************************
+From: navin.bhatt@larsentoubro.com <navin.bhatt@larsentoubro.com>
+
+Sent: Thursday, April 27, 2023 3:47 PM
+
+To: Divya Narula <divyan022 @logisticintegrators.com>; Rukmini Chavan <rukminicO22 @logisticintegrators.com>
+Cc: ajit.pirankar@larsentoubro.com; atul.shinde@larsentoubro.com; gajanan.samant@larsentoubro.com;
+ganesh.chothe@larsentoubro.com; hemant.walzade@larsentoubro.com; kiran.zarekar@larsentoubro.com;
+navin.bhatt@larsentoubro.com; neeta.patil@larsentoubro.com; pallavi.kharade@larsentoubro.com;
+pradip.joshi@larsentoubro.com; riyaz.inamdar@larsentoubro.com; sandeep.shinde@larsentoubro.com;
+saurav.kumar5 @larsentoubro.com; shailesh.divate@larsentoubro.com; siddhant.baride@larsentoubro.com;
+sudip.bagayatkar@larsentoubro.com; thomas.george2 @larsentoubro.com; truptesh.pawaskar@larsentoubro.com;
+vineet.agarwal@larsentoubro.com
+
+Subject: Logistics - Ship. Req.No.:NLRNC/PS/7800017708/7306/Air/LOT1 ,Supplier: DELTA MOBREY LIMITED
+
+Dear Team,
+
+LOGISTICS INTEGRATORS (1) PVT LTD has been nominated for shipping request
+NLRNC/PS/7800017708/7306/Air/LOT1
+
+Mode of shipment : Air
+
+Airfreight : CONSOL, Normal, Non-Licensable, Non-HAZ cargo
+
+Material PO: 7800017708
+
+Short Description: Supply of Pressure Switches along with design, engineering, manufacturing, coordination with all
+SUB-VENDORs, assembly, inspection (Excluding
+
+TPI but inclusive of co-ordination with TPI), Documentation, Testing andFinal Packing (Sea/Road worthy)
+Commissioning Spares,Special Tools, Consumables and Mandatory Spares as per specification &requirements
+covered in the Project specifications for New LQ &
+
+Revamp at NQ Complex (NLRNC-RT2) Project OF ONGC.
+
+Port of Origin: LONDON
+
+Port of Discharge: Mumbai Air Port
+
+Dispatch Address: Larsen & Toubro Limited (L&T Energy Hydrocarbon), EPC Block, Hazira manufacturing complex,
+Surat Hazira Road, Dist. Surat, Gujarat 394510
+
+Lot: Full lot
+
+Incoterms: EXW Farnham UK
+
+Terms of delivery |:Door to Door
+
+Terms of delivery Il:without customs clearance
+
+Terms of delivery IIl:without duty payment
+
+Spl instructions:
+
+Please use your userid and password for shipment updates and uploading of documents which is mandatory.
+Click Here to open Request
+
+For Internet link Click Here to open Request
+Note: Incase above link does not work please copy below address in your browser and press enter
+https://iltp.Inthydrocarbon.com/logistics/tracking/login.aspx?msg=%2flogistics%2ftracking%2frequest%2fshipping-
+
+Note: Incase above Internet link does not work please copy below address in your browser and press enter
+@weburl_internet@
+
+Admin, Integrated Logistics Tracking
+
+*This is an auto generated email please do not reply on the mail*
+
+******************************page7*************************************
+Air Freight rates: -
+
+Ex-works charges — anywhere in England
+
+documentation, X-ray, screening, custom clearance, e ete: _ Min Cl BP
+
+AICO? LH, Al, LX, TK, QR, EK or any other premium carrier
+sit time from pick’ up to destination airport of 5-6 days. Minim tum 1 arriv
+
+Breakbulk: Rs. 600 0/- per HAWB
+IGM Filing: Rs. 320/- per HAWE
+Cartage: Minimum Rs. 100/ kg.
+Deconsolidation charges: F Rs. 750 per HAWB
+
+
+******************************page8*************************************
+Corporate Account Group Branch
+
+J. N. Heredia Marg, “Neville House”
+Bailard Estate, Mumbai 400 001 India
+Tele: 61542705/775/771 Fax: 61542708
+Email: cmforex.09995@sbi.co.in
+
+STATE BANK OF INDIA PAGE - 01
+GLOBAL MARKETS UNIT - KOLKATA DATE -—- 11-05-2023
+FOREIGN CURRENCY READY RATES
+
+Card Rates below 10 Lakhs
+
+<-----BILL----->
+| BUY | SELL
+| 8114} 82.88 |
+
+91.46| 88.44
+
+| 90.42,
+54.49 |
+60.33 |
+
+HKD/INR-
+
+read
+
+13| 223.92 | ” 224.38
+KWD/INR | 259.81} 275.6] 259.62] 276.16 |
+| AED/INR | 21.68 | 22.99] 21.66} 23.04 |
+SAR/INR | 21. |.21.21) 22.56
+
+Note: - Item nos. 4 (JPY) is quoted in terms of 100 fc units.
+
+Note: The above card rate is for information purpose only. Any use of the above information by
+user is without any liability of SBI or its employees.
+
+

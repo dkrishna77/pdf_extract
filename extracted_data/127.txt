@@ -1,0 +1,238 @@
+******************************page1*************************************
+Aditya Marine Limited
+
+Room no 11/12/13, Dhiraj Chambers, Plot no 36, Sector 9A, Gandhidham-370201 Gujarat
+Ph: +91-2836-222053, 232174 | Fax: +91-2836-232175, 229219 | Email: info@adityamarine.com
+
+Tax Invoice
+Bill To Tax Invoice No Tax Invoice Date
+LARSEN & TOUBRO LIMITED AMLDNINV2324M180 14-08-2023
+L&T Energy hydrocarbon Offshore, A.M. Naik Tower, L&T Gate No.3, JVLR, Vessel Period
+Powai,, Mumbai Suburba, 400072, Maharashtra Barge Allianz CB 250 07-03-2023 02:30:00 To 08-03-2023 09:30:00
+GST No : 27AAACLO140PEZ6 | PAN : AAACLO140P, PO No Place of Supply
+Code : 27 | State : Maharashtra 7400050325 MUMBAI Mundra
+E-Invoice IRN E-Invoice Ack No E-Invoice Ack Date
+1lecef92215dd48358826ab38be823187317cc07bd70ca9lab2a0ef5f4de387c | 162314665091211 14-08-2023 12:08:00
+
+scr / - tate [Ta IGST
+Particulars mate Total (INR)
+Pcs Amt NR
+
+TOWARDS STORAGE CHARGES : 04.08.2023 TO
+18.08.2023 : 15 days ie a
+
+! (As per Invoice no: IMPLSTR08230011 date 04.08.2023 296719 69,300.00 | 18.00 12,474.00 81,774.00
+from ADANI PORTS AND SEZ LTD)
+
+Total | 69,300.00 300.00 12,474. | 12,474.00) | 81,774.00 774.00
+Rounding Off
+Amount In Words: Eighty-One Thousand Seven Hundred Seventy-Four Only 81,774.00
+
+Remarks:
+
+Company's GST No _| PAN No Company's Bank Bank A/c No IFSC For, Aditya Marine Limited
+24AAECA8257C1ZX | AAECA8257C | KOTAK MAHINDRA BANK LTD 2911308718 KKBK0000822 Digital signed by BHARTI MANO}
+Declaration: B HARTI peony 3825861365781953
+1. If any Query / Complain / Clarification should be bought to notice of office in writing within 7 days from date of the receipt of M A N O J 15 420 952e0902945482567 46
+Invoice. St-Gujrat , postalCode=370205,
+2. All Party Pay Order / Cheque / RTGS / NEFT for payment of bill should be drawn in favor of Aditya Marine Limited S H A H sbdcaba 9109552028 ec
+
+3. This is a computer generated Invoice, does not require any seal and signature. |
+
+MANOJ SHAH
+Date: 2023.08.14 12:14:58 +05'30'
+
+4. Subject to Gandhidham Jurisdiction, E.&O.E. Authorised Signatory
+Reg. Office : 411, Raikar Chamber, 234, N.G. Acharya Marge, Govandi (E), Mumbai-400088 Maharashtra, CIN No : U63090MH2004PLC148010
+
+******************************page2*************************************
+Ports and and
+Logistics
+
+adani
+
+Original for Recipient
+
+Tax Invoice
+
+Name of the Company :
+
+GSTIN :
+PAN :
+
+CIN :
+Address :
+
+ADANI PORTS AND SPECIAL ECONOMIC ZONE LIMITED | !nvoice Type :
+
+24AAACG7917K1ZH
+AAACG7917K
+L63090GJ1998PLC034182
+
+Adani House, PO Box No.1, Mundra, Kutch 370 421 Gujarat,
+
+Invoice Date :
+
+Final Invoice Number :
+
+STORAGE INVOICE GENERATION
+IMPLSTR0823001 1
+04.08.2023 10:48
+
+India. Tel. +91 2838 25 5000, Fax +91 2838 25 5110
+
+State Cd: 24
+SEZ Status :
+
+Company State Name :GUJARAT
+Yes
+
+Customer ID : MNDRADITYB
+
+Customer Name: VCN:
+
+Vessel Name:
+GRT:
+
+ATB:
+
+ATUB:
+
+Berth No:
+Place of supply:
+Exchange Rate:
+
+2300929
+
+BARGE ALLIANZ CB 250
+2306
+
+07.03.2023 01.24
+08.03.2023 12.00
+
+Bog
+
+GUJARAT
+
+1(INR)
+
+ADITYA MARINE LIMITED ( CUSTOMER )
+
+State GSTIN : 24AAECA8257C12ZX
+
+GST State Code : 24 GST State Name : GUJARAT
+
+PAN : AAECA8257C
+
+Address : UNIT NO. 11/12/13 DHIRAJ CHAMBERS
+PLOT NO. 36 , SECTOR - 9A,
+GUJARAT
+370201 GANDHIDHAM
+
+State Code : 24 State Name : GUJARAT
+
+Customer SEZ Status: No
+
+Version : 1.1
+
+IRN No: 12924cb2a72edc5a553714229d281d35c6470
+a/786acca4b4a0d25f6d560cd042
+
+Supply Type Code : B2B
+
+Document Type Code: INV
+
+Reverse Charge : N
+
+Service Customer : LARSEN AND TOUBRO LTD
+Contact Person:
+
+Payment Term :
+
+IMMEDIATE_OR _AS PER PAYMENT TERM
+Service
+Description/
+
+CGST SGST IGST
+HSN/SAC | Cargo Descr. on ccy |M* mnie) | a
+svat am | = [Ano | [ana
+STORAGE | 06729 | steeLeipes| 198.000] RT| 1.000 | 950.000000] INR] | 68,300.00 alse 12,474.00
+
+Total 3 69,300.00! | ——_—_—0.00] | | 12,474.00)
+Total Amount (INR
+
+Total Tax Amount (INR
+
+Total Invoice Amount (INR)
+
+RoudOH NAY]
+
+Amount of tax subject to Reverse Charge (INR)
+
+*M -> Minimum Clause Applicable
+
+)
+)
+
+(
+(
+
+Final Invoice Amount (INR
+
+FINAL INVOICE AMOUNT (In Words):
+
+Eighty One Thousand Seven Hundred Seventy Four Only
+
+Page lof 2
+
+ADANI PORTS AND SPECIAL ECONOMIC ZONE LIMITED
+
+Registered Office : "Adani Corporate House", Shantigram, Near Vaishno Devi Circle, S. G. Highway, Khodiyar, Anmedabada-
+382421, Gujarat, INDIA Visit us at www.adani.com,E-mail : info@adani.com
+
+******************************page3*************************************
+Remark: STORAGE CHARGES FOR THE PERIOD OF 04.08.2023 TO 18.08.2023.
+
+Note:
+
+1) Our Banker's details for remitting funds:
+
+Bank Name : Axis Bank Ltd, Building No 5-A1, Room No 4,5 & 6, Ground Floor, New PUB, Mundra - 370 421. Current Account No:
+460010200003193,
+
+Beneficiary : Adani Ports And Special Economic Zone Limited, MICR : 370211121, IFSC Code : UTIBOO000460
+
+Bank Name : HDFC Bank Ltd, Shop No 1-4,16-17,38-39, Shraddha Complex, Adj Hotel Shiv Nautica, Mundra -370 421. Current Account No:
+05770310000028, Beneficiary : Adani Ports And Special
+
+Economic Zone Limited, MICR : 370240421, IFSC Code : HDFC0000577
+
+Please quote our invoice number when remitting funds.
+
+2) The dollar denominated tariff will be recovered in Indian Rupees after conversion of charges into its equivalent Indian Rupees at the rate
+notified by the HDFC Bank (TT selling rate) from time
+
+to time.
+
+3) Exchange rate prevailing on the date of berthing of vessel will be used for conversion purpose.
+
+4) If any amount is not paid on or before due date, interest @18% per annum will be charged after due date of invoice on the amount
+remaining unpaid.
+
+5) This is a digitally signed invoice and does not require manual signatures.
+
+6) All disputes are subject to Anmedabad Jurisdiction.
+
+9) The day of berthing of the vessel shall be used for determining the conversion / exchange rate in final invoice.
+
+FOR ADANI PORTS AND SPECIAL ECONOMIC ZONE LIMITED
+
+ee eas E&OE
+AUTHORISED SIGNATORY — Page 2 of 2
+
+ADANI PORTS AND SPECIAL ECONOMIC ZONE LIMITED
+
+Registered Office : "Adani Corporate House", Shantigram, Near Vaishno Devi Circle, S. G. Highway, Khodiyar, Anmedabada-
+
+382421, Gujarat, INDIA Visit us at www.adani.com,E-mail : info@adani.com
+

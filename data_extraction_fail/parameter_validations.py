@@ -72,9 +72,8 @@ class Extracted_Data_Validations:
             "CONSIGNOR": Extracted_Data_Validations.Consignor_details
         }
         return segragated_data
-
     def State_Segragation(self):
-        State_file = open("../state_codes.txt")
+        State_file = open("state_codes.txt")
         State_data = State_file.readlines()
         State_Names = {state.split(',')[1][:2]:state.split(',')[0].capitalize() for state in State_data}
 
