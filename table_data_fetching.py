@@ -1,6 +1,5 @@
 import  tabula
-from update_excel_sheet import worksheet, workbook
-from parameter_validations import gst_validation
+from data_extraction_fail.parameter_validations import gst_validation
 
 def fetch_table_data(pdf_file_path):
     try:

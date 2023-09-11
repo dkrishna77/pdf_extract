@@ -1,0 +1,67 @@
+TÜVRheinland'
+VI ORIGINAL FOR RECIPIENT
+DUPLICATE FOR SUPPLIER
+Tax Invoice
+TOV Rheinland (India) Pvt. Ltd.
+D.S Business Galleria
+Office no- 1209 12th Floor
+L.B.S Marg Kanjurmarg(W)
+Mumbai 400079
+India
+GSTlN:27AAACT7736PIZN
+Contact Person
+K R Sripathan (Accounting Dept.)
+Invoice Number:
+MH2324300448
+Invoice Date:
+14.06.2023
+OGSP/74000-50618/
+Reference Number:
+NDP dtd 15.1222
+Order Number:
+146747395
+Reverse Charge(Y/N): No
+Place Of Supply:
+27 - Maharashtra
+I RN: 47847b07fOdf81cb0085f4532cd9cb1 dbd7d6b9
+Customer Number: 2478426
+Billing Details
+LARSEN & TOUBRO LIMITED
+L&T Energy Hydrocarbon
+Gate No.3, 14th Floor,AMN Tower.Powai Campus.
+Jogeshwari-Vikroli Link Road,
+Mumbai 400072
+GSTtN:27AAACL0140PEZ6
+State: Maharashtra
+Your Contact Person
+Sumit Medhekar
++91 98 3311 8465
+Description Of Service
+TPI - CRPO 80/81 project
+OGSPff4000-50618/NDP dtd 15.1222
+TT Buying rate @ 13/06/2023
+1 81.67 (INA)
+Shipping Details
+LARSEN & TOUBRO LIMITED
+L&T Energy Hydrocarbon
+Gate No.3,14th Floor,AMN Tower,Powai Campus.
+Jogeshwari-Vikroli Link Road,
+Mumbai 400072
+GSTlN:27AAACL0140PEZ6
+State Code:27
+State: Maharashtra
+CGST
+State Code:27
+HSN
+098346
+Taxable Value Rate
+Rate
+Amount
+SGST
+Amount
+66,845.47
+Rate
+IGST
+Amount
+66,845.47 g
+Inspection services carried out in month of MAY 2023
