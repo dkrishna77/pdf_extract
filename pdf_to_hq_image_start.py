@@ -10,10 +10,10 @@ import pandas as pd
 import re
 import pandas as pd
 columns=['SrNo', 'File_Name', 'Title', 'PO_Number', 'Original_For_Recipient',
-       'Tax_Invoice_Number', 'Consignor', 'Consignor_GST_No',
-       'Consignor_State_Code', 'Consignor_State_Name', 'HSN/SAC', 'Consignee',
+       'Tax_Invoice_Number', 'Consignor_Name', 'Consignor_GST_No',
+       'Consignor_State_Code', 'Consignor_State_Name', 'HSN/SAC', 'Consignee_Name',
        'Consignee_GST_No', 'Consignee_State_Code', 'Consignee_State_Name',
-       'Vehicle_Number', 'RCM_Status']
+       'Vehicle_Number', 'Digital_Signature', 'RCM_Status']
 
 df = pd.DataFrame(columns=columns)
 
@@ -94,7 +94,8 @@ def pdf_to_image_to_text(pdf_path,file_name, row_number, dpi=1200, contrast_fact
         "ORIGINAL_FOR_RECIPIENT":None,
         "Digital_Signature":None,
         "VEHICLE_NUMBER":None,
-        "HSN_CODE":None,
+        "RCM_Status":None,
+        "HSN/SAC_CODE":None,
         "CONSIGNEE": {"GSTN":None, "NAME":None, "STATE":None, "STATE_CODE":None},
         "CONSIGNOR": {"GSTN":None, "NAME":None, "STATE":None, "STATE_CODE":None,"PO_NUMBER":None,"INVOICE_NUMBER":None},
 
@@ -107,6 +108,13 @@ def pdf_to_image_to_text(pdf_path,file_name, row_number, dpi=1200, contrast_fact
             print(f"Tax Invoice is present in Extracted Data")
             title_flag = "Available"
             segragated_data["TITLE"] = title_flag
+        if title_flag == None and "tax" in Total_Extracted_Text.lower():
+            index =  Total_Extracted_Text.lower().index("tax")
+            if Total_Extracted_Text.lower()[index+1] == "invoice":
+                title_flag = "Available"
+                segragated_data["TITLE"] = title_flag
+
+
 
     def gst_validation(Total_Extracted_Text):
         # possibility and data correction
@@ -176,8 +184,9 @@ def pdf_to_image_to_text(pdf_path,file_name, row_number, dpi=1200, contrast_fact
 
     segragated_data = State_Segragation( segragated_data)
 
-    def PO_Number_Identifier(data,segragated_data):
-        if 'OGSP' in data and '' in data:
+    def PO_Number_Identifier(data, segragated_data):
+
+        if 'OGSP/' in data and '/' in data:
             start_index = data.index(r'OGSP/')
             fetched_po_number = data[start_index:start_index + 25]
             segragated_data["CONSIGNOR"]["PO_NUMBER"] = fetched_po_number.split(' ')[0]
@@ -235,8 +244,8 @@ def pdf_to_image_to_text(pdf_path,file_name, row_number, dpi=1200, contrast_fact
     def Digital_Sign_Validation(data, segragated_data):
         sign_keyword = ["digital signature", "digitally signed"]
         for sign in sign_keyword:
-            if sign in data or sign.upper() in data.upper():
-                segragated_data["Digital_Signature"] = "Digital Signature Keyword is available in document"
+            if sign.lower() in data.lower():
+                segragated_data['Digital_Signature'] = "Digital Signature Keyword is available in document"
         return segragated_data
 
     segragated_data = Digital_Sign_Validation(Total_Extracted_Text, segragated_data)
@@ -248,7 +257,6 @@ def pdf_to_image_to_text(pdf_path,file_name, row_number, dpi=1200, contrast_fact
                 segragated_data["CONSIGNEE"]["NAME"] = possible_name
                 if possible_name == "Larsen" or possible_name == "Toubro":
                     segragated_data["CONSIGNEE"]["NAME"] = "Larsen & Toubro"
-
         return segragated_data
 
     segragated_data = Consignee_Name_Validation(Total_Extracted_Text,segragated_data)
@@ -267,15 +275,75 @@ def pdf_to_image_to_text(pdf_path,file_name, row_number, dpi=1200, contrast_fact
 
 
 
-    # def Hsn_number_validation(data,segragated_data):
-    #     pass
-        # return segragated_data
+    def Hsn_number_validation(data,segragated_data):
+        Hsn_tags = ["HSN","SAC","HSN/SAC", "SAC/HSN"]
+        flag = 0
+        for hsn_tag in Hsn_tags:
+            if flag==0 and hsn_tag.lower() in data.lower():
+                flag = 1
+                segragated_data["HSN/SAC_CODE"] = "HSN/SAC Keyword is Available in Document"
+            if flag ==1:
+                pass
 
-    # segragated_data = Hsn_number_validation(Total_Extracted_Text, segragated_data)
+        return segragated_data
+
+    segragated_data = Hsn_number_validation(Total_Extracted_Text, segragated_data)
 
 
-    # def Consignor_Name_Validation(data, segragated_data):
-    #     pass
+    def Consignor_Name_Validation(data, segragated_data):
+        consignor_tags = ["pvt", "ltd", "services", "technicals"]
+        tag_score = {}
+        for tag in consignor_tags:
+            for line in data.split('\n'):
+                if tag in line.lower():
+                    if line.lower() not in tag_score:
+                        tag_score[line.lower()]= line.lower().count("pvt")+line.lower().count("ltd")+line.lower().count("services")+line.lower().count("technicals")
+                    else:
+                        tag_score[line.lower()]+=1
+        min_len_tag = min([len(i) for i in tag_score])
+        max_occurence = max([i for i in tag_score.values()])
+        for line, score in tag_score.items():
+            if score ==max_occurence:
+                if len(line) == min_len_tag:
+                    segragated_data['CONSIGNOR']['NAME']=line
+
+        def find_common_substrings(strings):
+            if not strings:
+                return []
+
+            # Find the shortest string in the list
+            shortest_string = min(strings, key=len)
+
+            common_substrings = []
+            max_length = len(shortest_string)
+
+            for length in range(max_length, 0, -1):
+                for start in range(max_length - length + 1):
+                    substring = shortest_string[start:start + length]
+
+                    if all(substring in s for s in strings):
+                        common_substrings.append(substring)
+
+                if common_substrings:
+                    # Common substrings found for this length, stop searching
+                    break
+
+            return common_substrings
+
+        # Example usage:
+        if segragated_data['CONSIGNOR']['NAME'] == None:
+            input_strings = [i for i,j in tag_score.items() if j==max_occurence]
+            common_substrings = find_common_substrings(input_strings)
+            segragated_data['CONSIGNOR']['NAME'] = common_substrings[0]
+
+
+        print("*-*-*--*-*-*-*-*-*-*--*-*-*-*-*-*-*---*-*-*-*-*--*-*-*-*-*-*-*-*-*-Consignor::", segragated_data['CONSIGNOR']['NAME'])
+
+        return segragated_data
+
+    segragated_data = Consignor_Name_Validation(Total_Extracted_Text, segragated_data)
+
+
 
     # print(segragated_data)
     return segragated_data
@@ -297,19 +365,20 @@ if __name__ == "__main__":
             df.at[row_number-1, 'File_Name'] = result['FILE_NAME']
             df.at[row_number-1, 'Title'] = result['TITLE']
             df.at[row_number-1, 'PO_Number'] = result['CONSIGNOR']['PO_NUMBER']
-            df.at[row_number-1,'Consignee'] = result['CONSIGNEE']['NAME']
+            df.at[row_number-1,'Consignee_Name'] = result['CONSIGNEE']['NAME']
             df.at[row_number-1, 'Consignee_GST_No'] = result['CONSIGNEE']['GSTN']
             df.at[row_number-1, 'Consignee_State_Name'] = result['CONSIGNEE']['STATE']
             df.at[row_number-1, 'Consignee_State_Code'] = result['CONSIGNEE']['STATE_CODE']
-            # df.at[row_number-1,'Consignor_Name'] = result['CONSIGNOR']['NAME']
+            df.at[row_number-1,'Consignor_Name'] = result['CONSIGNOR']['NAME']
             df.at[row_number-1, 'Consignor_GST_No'] = result['CONSIGNOR']['GSTN']
             df.at[row_number-1, 'Consignor_State_Name'] = result['CONSIGNOR']['STATE']
             df.at[row_number-1, 'Consignor_State_Code'] = result['CONSIGNOR']['STATE_CODE']
             df.at[row_number-1,'Original_For_Recipient'] = result['ORIGINAL_FOR_RECIPIENT']
             df.at[row_number-1,'Tax_Invoice_Number'] = result['CONSIGNOR']['INVOICE_NUMBER']
-            # df.at[row_number-1,'HSN/SAC'] =
+            df.at[row_number-1,'HSN/SAC_CODE'] = str(result["HSN/SAC_CODE"])
             df.at[row_number-1,'Vehicle_Number'] = result["VEHICLE_NUMBER"]
-            df.at[row_number-1,'RCM_Status'] = result['Digital_Signature']
+            df.at[row_number-1,'Digital_Signature'] = result['Digital_Signature']
+            # df.at[row_number-1,'RCM_Status'] = result['RCM_Status']
 
 
     df.to_csv('output1.csv')
@@ -317,11 +386,11 @@ if __name__ == "__main__":
     df2 = df.dropna(thresh=3).reset_index()
     df2.drop("index", axis=1, inplace=True)
     df2.fillna("Not Available")
-    df2.to_csv('output_final.csv')
-    files_to_move_pass = df2['File_Name'].to_list()
-    files_to_move_fail = [i for i in df['File_Name'].to_list() if i not in files_to_move_pass]
-    for file in files_to_move_pass:
+    files_to_move_into__pass = df2['File_Name'].to_list()
+    files_to_move_into_fail = [i for i in df['File_Name'].to_list() if i not in files_to_move_into__pass]
+    files_to_move_into__pass
+    for file in files_to_move_into__pass:
         move_file(f"sample_pdf\\{file}", "data_extraction_pass")
-    for file in files_to_move_fail:
+    for file in files_to_move_into_fail:
         move_file(f"sample_pdf\\{file}", "data_extraction_fail")
 
