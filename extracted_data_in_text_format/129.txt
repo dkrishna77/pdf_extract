@@ -1,0 +1,433 @@
+******************************page1*************************************
+Tax Invoice
+(ORIGINAL FOR BUYER)
+
+Invoice Number: IF6012324/015400 Subtotal: 511,700.00 INR
+Invoice Date: OM CuTios a0 12:00 =Total Tax: 71,423.00 INR
+" Total Gross Amount: 983,123.00 INR
+Original Purchase Order: 7900008408 Total Net Amount: 583.123.00 INR
+Amount Due: 583,123.00 INR
+Submission Method: Online
+Origin: Supplier
+Source Document: Order
+Service Period
+Start Date : 1 Aug 2023
+End Date : 31 Aug 2023
+REMIT TO: BILL TO: SUPPLIER:
+APRILE INDIA PRIVATE LIMITED Please refer Annexure APRILE INDIA PRIVATE LIMITED
+Postal Address: Postal Address: Postal Address:
+ANDHERI KURLA ROAD ANDHERI KURLA ROAD
+ANDHERI EAST ANDHERI EAST
+Mumbal Mumbal
+IN-MH 400059 India IN-MH 400059
+India Address ID: 2000 India
+
+GST ID: 27AAKCA1842R2Z15
+
+BILL FROM: CUSTOMER:
+APRILE INDIA PRIVATE LIMITED Please refer Annexure
+Postal Address: Postal Address:
+
+OFFICE 216, A WING
+SAGARTECH PLAZA,
+
+MUMBAI
+IN-MH 400072 India
+India Address ID: 212
+
+GST ID: 27AAKCA1842RZ15 Ver NX,
+tallvsignted by DS TRUSTWEAVER AB 7
+Date’ 2028-98-23 15:23:42 UTC
+
+SHIPPING INFORMATION:
+
+******************************page2*************************************
+SHIP FROM:
+APRILE INDIA PRIVATE LIMITED
+
+Postal Address:
+
+ANDHERI KURLA ROAD
+ANDHERI EAST
+
+Mumbai
+IN-MH 400059 SHIP TO:
+India Please refer Annexure
+
+Extended Profile Info:
+Supplier GST Registration Number: 27AAKCA1842RZ15
+
+Additional Information:
+Customer VAT/Tax ID: 24AAACL0140PDZD
+
+Original Purchase Order: 7900008408
+Line No. Line Ref No. Part No. / Description Customer Part No. Qty / Unit
+3 Sea Freight Charges
+
+1 3.10 ASFFSFFC2248EA 2 / (EA)
+Sea Freight Charges
+
+DETAILS
+
+Auxiliary Part ID:
+Manufacturer Part No.:
+
+Manufacturer Name:
+
+Country of Origin:
+
+Service Sheet No. IF6O12324/015400
+Accounting Reference ID: 40117
+
+Accounting Description: ID
+
+Accounting Reference ID: 01
+
+Accounting Description: SAP Serial Number
+
+Accounting Reference ID: CRPO90-OOK.1.2.1.6
+
+Accounting Description: ID
+Accounting Reference ID: 100.0
+Accounting Description: ID
+Classification Domain: UNSPSC
+Service Classification: F&F_SERV
+Classification Domain: ERPCommodityCode
+Service Classification: F&F_SERV
+Classification Domain: ERPCommodityCodeDescription
+service Classification: Freight Forward Serv
+Additional Information:
+3
+Tax Details:
+
+Tax Category TaxRate TaxRate Type Taxable Amount Tax Amount TaxLocation Description Tax Regime
+
+Unit Price
+
+60,200.00 INR
+
+Exempt
+
+Sub Total
+
+120,400.00 INR
+
+******************************page3*************************************
+GST 3%
+
+9 3.20
+
+DETAILS
+
+Auxiliary Part ID:
+Manufacturer Part No.:
+Manufacturer Name:
+Country of Origin:
+
+Service Sheet No.
+
+Accounting Reference ID:
+
+Accounting Description:
+
+Accounting Reference ID:
+
+Accounting Description:
+
+Accounting Reference ID:
+
+Accounting Description:
+
+Accounting Reference ID:
+
+Accounting Description:
+
+Classification Domain:
+service Classification:
+Classification Domain:
+service Classification:
+Classification Domain:
+
+Service Classification:
+
+Tax Details:
+
+120,400.00 INR 6,020.00 5%
+INR (CGST+SGST
+/IGST)
+Sea Freight Charges ASFFSFOE2247EA 2 | (EA)
+IF6O12324/015400
+40116
+ID
+04
+SAP Serial Number
+CRPO90-OOK.1.2.1.6
+ID
+100.0
+ID
+UNSPSC
+F&F_SERV
+ERPCommodityCode
+F&F_SERV
+ERPCommodityCodeDescription
+Freight Forward Serv
+Additional Information:
+3
+Tax Category Tax Rate TaxRateType TaxableAmount Tax Amount TaxLocation Description Tax Regime
+
+GST 18%
+
+240,800.00 INR 43,344.00 9%
+
+INR CGST+9%
+
+Detail
+
+Subtotal
+
+Tax:
+
+Gross Amount
+
+Exempt
+
+Detail
+
+Net Amount
+
+120,400.00 INR
+
+: 120,400.00 INR
+6,020.00 INR
+: 126,420.00 INR
+: 126,420.00 INR
+
+240,800.00 INR
+
+******************************page4*************************************
+3 3.30
+
+DETAILS
+
+Auxiliary Part ID:
+Manufacturer Part No.:
+Manufacturer Name:
+Country of Origin:
+
+Service Sheet No.
+
+Accounting Reference ID:
+
+Accounting Description:
+
+Accounting Reference ID:
+
+Accounting Description:
+
+Accounting Reference ID:
+
+Accounting Description:
+
+Accounting Reference ID:
+
+Accounting Description:
+
+Classification Domain:
+service Classification:
+Classification Domain:
+service Classification:
+Classification Domain:
+
+Service Classification:
+
+Tax Details:
+
+Tax Category Tax Rate
+
+GST 18%
+
+Tax Rate Type
+
+SGST
+
+ASFFSFMI2247EA
+Sea Freight Charges
+
+IF6O12324/015400
+40116
+
+ID
+
+04
+
+SAP Serial Number
+CRPO90-OOK.1.2.1.6
+ID
+
+100.0
+
+ID
+
+UNSPSC
+
+F&F_SERV
+ERPCommodityCode
+F&F_SERV
+ERPCommodityCodeDescription
+
+Freight Forward Serv
+
+1 / (EA)
+
+Additional Information:
+
+Taxable Amount Tax Amount Tax Location
+
+111,800.00 INR 20,124.00 9%
+
+Description
+
+3
+
+Tax Regime
+
+INR CGST+9%
+
+SGST
+
+Subtotal: 240,800.00 INR
+43,344.00 INR
+Gross Amount: 284,144.00 INR
+
+Net Amount: 284,144.00 INR
+
+Tax:
+
+111,800.00 INR 111,800.00 INR
+
+Exempt
+
+Detail
+
+******************************page5*************************************
+4 3.40
+
+DETAILS
+
+Auxiliary Part ID:
+Manufacturer Part No.:
+Manufacturer Name:
+Country of Origin:
+
+Service Sheet No.
+
+Accounting Reference ID:
+
+Accounting Description:
+
+Accounting Reference ID:
+
+Accounting Description:
+
+Accounting Reference ID:
+
+Accounting Description:
+
+Accounting Reference ID:
+
+Accounting Description:
+
+Classification Domain:
+service Classification:
+Classification Domain:
+service Classification:
+Classification Domain:
+
+Service Classification:
+
+Subtotal: 111,800.00 INR
+
+Tax: 20,124.00 INR
+
+Gross Amount: 131,924.00 INR
+Net Amount: 131,924.00 INR
+
+. ASFFSFOF2247EA 1 / (EA) 38,700.00 INR 38,700.00 INR
+Sea Freight Charges
+
+IF6O12324/015400
+40116
+
+ID
+
+04
+
+SAP Serial Number
+CRPO90-OOK.1.2.1.6
+ID
+
+100.0
+
+ID
+
+UNSPSC
+
+F&F_SERV
+ERPCommodityCode
+F&F_SERV
+ERPCommodityCodeDescription
+
+Freight Forward Serv
+
+Additional Information:
+
+3
+Tax Details:
+Tax Category TaxRate TaxRate Type Taxable Amount Tax Amount TaxLocation Description Tax Regime Exempt
+Detail
+GST 5% 38,700.00 INR 1,935.00 5%
+INR (CGST+SGST
+NGST)
+
+Subtotal: 38,700.00 INR
+Tax: 1,935.00 INR
+Gross Amount: 40,635.00 INR
+
+******************************page6*************************************
+Tax Summary
+
+Tax Details:
+Tax Category Tax Rate Tax Rate Type Taxable Amount Tax Amount
+GST 5% 159,100.00 INR 7,955.00 INR
+GST 18% 352,600.00 INR 63,468.00 INR
+
+Invoice Summary
+
+PDF generated by on Wednesday 23 Aug 2023 8:23 AM GMT-07:00
+
+Tax Location
+
+Net Amount: 40,635.00 INR
+
+Description
+5% (CGST+SGST/IGST)
+
+9% CGST+9% SGST
+
+Subtotal
+
+Total Tax:
+
+Total Gross Amount
+Total Net Amount
+
+Amount Due
+
+Tax Regime Exempt Detail
+
+: 511,700.00 INR
+71,423.00 INR
+; 983,123.00 INR
+- 983,123.00 INR
+: 983,123.00 INR
+

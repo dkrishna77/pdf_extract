@@ -1,0 +1,71 @@
+******************************page1*************************************
+TAX INVOICE
+
+Invoice From Invoice No. - LTAI1763
+AbadIndia AshoreBase Resources Date - 14-Aug-23
+Milan Industrial Estate ,Office No. 225, 2nd FloorAbhyudaya Project - NLRNC-RT2
+Nagar, Cotton Green (W)Mumbai Pin Code - 400033 PO No. - 74000 54861
+GST No ' 27AABPRO304F12Z8 Vendor Code - 30176
+
+PAN No - AABPRO304F
+
+State : Maharashtra, Code : 27 Payment Terms; 45 Days
+Email Add. _: billing@abadindia.com Udyam Reg. No.: UDYAM-MH-19-0095021
+
+Invoice To: - G6eaafB89e13ac933a6c2- e-Invoice
+8a9b92a9d4a1d4664d1-
+
+Larsen & Toubro Limited _ f178c85ff894d8d6eca8-
+14 Fl AM Naik Tower JVLR, L&T Cumpus Gate 3, Mumbai Pin e3c759
+
+ReTNUIN oTARACLOIAOPETE Ack No. : 122317793348651
+7 eee Ack Date : 14-Aug-23
+
+PAN * AAACLO140P
+State Name : Maharashtra, Code: 27
+
+Description SAC/HSN Qty
+Code
+1
+
+C&F Services 996/51 16,000.00 2 Nos 32,000.00
+Repair Pass Services
+As Per Attached Annexure
+For the Following Jobs
+R/22-23/037
+R/22-23/071
+es ee ee
+
+pS Total (Rs.) 32,000.00
+Amount In Words : INR Thirty Seven Thousand Seven Hundred Sixty CGST OUTWARD . 2,880.00
+
+SGST OUTWARD . 2,880.00
+Total Amount
+
+HSN/SAC Taxable CGST SGST/UTGST
+Value _| Rate | Amount | Rate | Amount _
+
+996751 32,000.00/ 9%! 2,880.00). 9%| 2,880.00
+32,000.00,
+
+Please Remit Payment To: Additional Remark :
+
+A/c Holder Name : Abadindia AshoreBase Resources Relevant Clause In Rate Chart - XX
+
+Bank Name * ICICI Bank Ltd.
+
+Alc. No. ' 623505379895
+
+IFSC Code " [ClICQ006235
+
+Branch ' Fort
+
+Declration For Abadindia AshoreBase Resources
+
+We declare that this invoice shows the actual price of the -
+Services / goods described and that all particulars are true and NARAYANDAS Sone Oe OND AS
+
+correct. NATWARLAL RAJPU FP pate: 2023.08.14 23:33:06 +05'30
+
+Auhtorised Signatory
+
